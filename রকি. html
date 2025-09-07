@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ছবি গ্যালারি</title>
+</head>
+<body>
+    <h2>আমার ছবি</h2>
+    <img src="image1.jpg" alt="ছবি ১" width="150">
+    <img src="image2.jpg" alt="ছবি ২" width="150">
+    <img src="image3.jpg" alt="ছবি ৩" width="150">
+    <img src="image4.jpg" alt="ছবি ৪" width="150">
+</body>
+</html>
